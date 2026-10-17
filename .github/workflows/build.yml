@@ -1,0 +1,23 @@
+name: Build Inkwell Studio PS2
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container: ps2dev/ps2dev:latest
+    steps:
+      - name: Install tools
+        run: apk add --no-cache build-base git
+
+      - uses: actions/checkout@v4
+
+      - name: Build ELF
+        run: make
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: inkwell_studio_elf
+          path: inkwell_studio.elf
