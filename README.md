@@ -1,12 +1,14 @@
 # Ps2Paint
 
-A simple painting tool made for the PlayStation 2.
+## ❗WARNING THIS WAS MADING USING CLAUDE AI BUT IT DOES NOT HAVE BUGS THAT I CURRENTLY KNOW OF OR KNOW HOW THE CODE WORKS❗
 
-I made this because I wanted to see if I could make a proper drawing app that runs on actual PS2 hardware. It took a few attempts to get working, but it’s finally here.
+## ❗There is also currently no save feature❗
+## Screenshot
+<img width="1157" height="651" alt="Screenshot 2026-10-18 195706" src="https://github.com/user-attachments/assets/e8bf3c83-c2b4-48c2-9672-119e9c4617fe" />
 
-You can draw, change colors, use stickers, resize the canvas, and mess around with different tools. Everything is designed to work only with a PS2 controller.
+A painting tool made for the playstation 2.
 
-## ❗There is currently no save feature❗
+You can draw, change colors, use stickers, resize the canvas, change drawing tools
 
 ## Features
 
@@ -25,27 +27,14 @@ You can draw, change colors, use stickers, resize the canvas, and mess around wi
 - **Stabilizer**
 - **Multiple movement options**
 
-## Controls
-
-Ps2Paint is designed to be only used with a PlayStation 2 controller.
-
-| Control | Action |
-|---|---|
-| Left joystick | Move around the canvas |
-| D-pad | Slower movement |
-| X button | Used for drawing |
-| R1 button | Used zoom |
-| Triangle | Used for changing tools |
+Ps2Paint uses the playstation 2 controller to move around a crosshair for painting
 
 ## Compatibility
 
-Made for the PlayStation 2 and tested on real PS2 hardware.
+Can be played both on a real playstation 2 or the pcsx2 emulator
 
 ## About
 
-This project was made as an experiment to see if its possible to make a painting app on the PS2
-It's a small project but it was fun getting everything working on actual hardware
-
-If you want to check out the source code, it's available in this repository
+If you want to see the source code it's available in this repository
 
 Have fun drawing!
