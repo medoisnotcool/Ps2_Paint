@@ -27,7 +27,7 @@ You can draw, change colors, use stickers, resize the canvas, change drawing too
 - **Stabilizer**
 - **Multiple movement options**
 
-Ps2_Paint uses the playstation 2 controller to move around a crosshair for painting
+Ps2_Paint uses the playstation 2 controller only, No mouse support
 
 ## Compatibility
 
