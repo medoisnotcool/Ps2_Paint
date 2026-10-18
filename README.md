@@ -1,4 +1,4 @@
-# Ps2Paint
+# Ps2_Paint
 
 ## ❗WARNING THIS WAS MADING USING CLAUDE AI BUT IT DOES NOT HAVE BUGS THAT I CURRENTLY KNOW OF OR KNOW HOW THE CODE WORKS❗
 
@@ -27,7 +27,7 @@ You can draw, change colors, use stickers, resize the canvas, change drawing too
 - **Stabilizer**
 - **Multiple movement options**
 
-Ps2Paint uses the playstation 2 controller to move around a crosshair for painting
+Ps2_Paint uses the playstation 2 controller to move around a crosshair for painting
 
 ## Compatibility
 
